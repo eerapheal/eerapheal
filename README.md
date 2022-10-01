@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **New projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT,RUBY, ON RAIL, REACT, BOOTSTRAP AND RUBY.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, RUBY ON RAIL, REACT, BOOTSTRAP AND RUBY.**
 
 - 📫 How to reach me **Ekpenisiraphael@gmail.com.**
 
