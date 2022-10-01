@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eerapheal" alt="eerapheal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/eekpenisiraphael?logo=twitter&style=for-the-badge" alt="eekpenisiraphael" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/eekpenisiraphael?logo=twitter&style=for-the-badge" alt="eekpenisiraphael" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack software development @microverse**
 
