@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **New projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, RUBY ON RAIL, REACT, BOOTSTRAP AND RUBY.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP AND RUBY.**
 
 - 📫 How to reach me **Ekpenisiraphael@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eekpenisiraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eekpenisiraphael" height="30" width="40" /></a>
+<a href="https://twitter.com/ekpenisiraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekpenisiraphael" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
