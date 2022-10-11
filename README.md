@@ -9,10 +9,9 @@
 <p align="left"> <a href="https://twitter.com/ekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/ekpenisiraphael?logo=twitter&style=for-the-badge" alt="ekpenisiraphael" /></a> </p>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
   <img src="https://github.com/<eerapheal>/<repository-eerapheal>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+
 
 - 🌱 I’m currently learning **Full Stack software development @microverse**
 
