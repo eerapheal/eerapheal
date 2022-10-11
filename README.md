@@ -9,10 +9,6 @@
 <p align="left"> <a href="https://twitter.com/ekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/ekpenisiraphael?logo=twitter&style=for-the-badge" alt="ekpenisiraphael" /></a> </p>
 
 
-
-  <img src="https://github.com/<eerapheal>/<repository-eerapheal>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-
-
 - 🌱 I’m currently learning **Full Stack software development @microverse**
 
 - 👯 I’m looking to collaborate on **New projects**
