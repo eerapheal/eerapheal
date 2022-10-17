@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eerapheal&label=Profile%20views&color=0e75b6&style=flat" alt="eerapheal" /> </p>
 
+<a href="https://wakatime.com/@2cad09ef-d8ff-4902-8aff-ca4202dc0969"><img src="https://wakatime.com/badge/user/2cad09ef-d8ff-4902-8aff-ca4202dc0969.svg" alt="Total time coded since May 11 2022" /></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eerapheal" alt="eerapheal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/ekpenisiraphael?logo=twitter&style=for-the-badge" alt="ekpenisiraphael" /></a> </p>
