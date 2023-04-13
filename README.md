@@ -11,11 +11,11 @@
 <p align="left"> <a href="https://twitter.com/ekpenisiraphael" target="blank"><img src="https://img.shields.io/twitter/follow/ekpenisiraphael?logo=twitter&style=for-the-badge" alt="ekpenisiraphael" /></a> </p>
 
 
-- 🌱 I’m currently learning **Full Stack software development @microverse**
+- 🌱 I’m currently completed **Full Stack software development @microverse**
 
 - 👯 I’m looking to collaborate on **New projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP AND RUBY.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, TAILWINDCSS RUBY RUBY on RAILS AND POSTGRESQL.**
 
 - 📫 How to reach me **Ekpenisiraphael@gmail.com**
 
