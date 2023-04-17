@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm E. E. Raphael</h1>
 <h3 align="center">A passionate frontend and backend full sacks developer from Nigeria, live in New Delhi, India.</h3>
-- 🌱 I’m currently completed **Full Stack software development @microverse**
+- 🌱 I currently completed **Full Stack software development @microverse**
 
 - 👯 I’m looking to collaborate on **New projects**
 
