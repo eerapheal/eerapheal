@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm E. E. Raphael</h1>
-<h3 align="center">A passionate frontend and backend full sacks developer from Nigeria, live in New Delhi, India.</h3>
-- 🌱 I currently completed **Full Stack software development @microverse**
+<h3 align="center">A passionate frontend and backend full sacks developer from Nigeria, lives in New Delhi, India.</h3>
+- 🌱 I completed **Full Stack software development @microverse**
 
 - 👯 I’m looking to collaborate on **New projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, TAILWINDCSS RUBY RUBY on RAILS AND POSTGRESQL.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT NEXTJS, BOOTSTRAP, TAILWINDCSS RUBY RUBY on RAILS EXPRESSJS NODEJS PRISMA POSTGRESQL MONGODB.**
 
 - 📫 How to reach me **Ekpenisiraphael@gmail.com**
 
