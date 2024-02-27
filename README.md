@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **New projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX NEXTJS, BOOTSTRAP, TAILWINDCSS RUBY RUBY on RAILS EXPRESSJS NODEJS, PRISMA ,POSTGRESQL AND MONGODB.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX, NEXTJS, BOOTSTRAP, TAILWINDCSS RUBY, RUBY on RAILS EXPRESSJS NODEJS, PRISMA, POSTGRESQL AND MONGODB.**
 
-- 📫 How to reach me **Ekpenisiraphael@gmail.com**
+- 📫 How to reach me **Ekpenisiraphael@gmail.com +918826120974**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
